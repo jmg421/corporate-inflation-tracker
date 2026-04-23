@@ -1,0 +1,41 @@
+{
+  "Hero 5 Black": {
+    "launch_date": "Oct 2016",
+    "launch_msrp": 399.99,
+    "current_price": 389.0,
+    "generation": 5,
+    "note": "10 years old, still selling near launch price"
+  },
+  "Hero 9 Black": {
+    "launch_date": "Sep 2020",
+    "launch_msrp": 349.99,
+    "current_price": 299.0,
+    "generation": 9
+  },
+  "Hero 10 Black": {
+    "launch_date": "Sep 2021",
+    "launch_msrp": 399.99,
+    "current_price": 449.24,
+    "generation": 10,
+    "note": "John Finizio's original observation: $50 more than 18 months ago despite being 3-4 gens old. CCC avg Amazon price used (currently out of stock)."
+  },
+  "Hero 11 Black": {
+    "launch_date": "Sep 2022",
+    "launch_msrp": 399.99,
+    "current_price": 589.95,
+    "generation": 11,
+    "note": "47% ABOVE launch price despite being 4 generations old"
+  },
+  "Hero 12 Black": {
+    "launch_date": "Sep 2023",
+    "launch_msrp": 399.99,
+    "current_price": 319.99,
+    "generation": 12
+  },
+  "Hero 13 Black": {
+    "launch_date": "Sep 2024",
+    "launch_msrp": 399.99,
+    "current_price": 379.0,
+    "generation": 13
+  }
+}
