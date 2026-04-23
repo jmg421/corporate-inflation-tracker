@@ -1,0 +1,6 @@
+pandas
+matplotlib
+requests
+beautifulsoup4
+jupyter
+fredapi
